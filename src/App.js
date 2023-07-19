@@ -9,7 +9,8 @@ function App() {
   const theme = {
     colors: {
       header: "#EBFBFF",
-      body:"#fff"
+      body:"#fff",
+      footer:"#003333"
     },
   };  
   return (
