@@ -1,11 +1,16 @@
-import logo from "./logo.svg";
-import "./App.css";
+import { ThemeProvider } from "styled-components";
 import Header from "./components/Header";
+import GlobalStyles from "./components/styles/Global.styled";
+
 function App() {
+  const theme = {
+    colors: {},
+  };
   return (
-    <>
+    <ThemeProvider theme={theme}>
+      <GlobalStyles/>
       <Header />
-    </>
+    </ThemeProvider>
   );
 }
 
