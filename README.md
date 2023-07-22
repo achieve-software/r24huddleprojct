@@ -26,9 +26,9 @@
         |----index.css
 ```
 ## Project-gif
-![JavaScript-project](https://github.com/achieve-software/achieve-software/blob/main/img/rooterex.gif?raw=true)
+![JavaScript-project](https://github.com/achieve-software/achieve-software/blob/main/img/huddle.gif?raw=true)
 ## Project-link
-https://willowy-fox-60c023.netlify.app/
+https://fanciful-medovik-bc2037.netlify.app/
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
